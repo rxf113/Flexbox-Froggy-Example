@@ -1,4 +1,4 @@
-# Flexbox-Froggy-Exercise
+# Flexbox-flex-froggy-Exercise
 
 flexbox exercise
 
@@ -17,7 +17,7 @@ flexbox exercise
 
 - screenshot
 
-![图片加载失败](https://rxf113.xyz/static/froggy1.png)
+![图片加载失败](https://rxf113.xyz/static/flex-froggy1.png)
 
 ---
 
@@ -34,7 +34,7 @@ flexbox exercise
 
 - screenshot
 
-![图片加载失败](https://rxf113.xyz/static/froggy2.png)
+![图片加载失败](https://rxf113.xyz/static/flex-froggy2.png)
 
 ---
 
@@ -51,7 +51,7 @@ flexbox exercise
 
 - screenshot
 
-![图片加载失败](https://rxf113.xyz/static/froggy3.png)
+![图片加载失败](https://rxf113.xyz/static/flex-froggy3.png)
 
 ---
 
@@ -68,7 +68,7 @@ flexbox exercise
 
 - screenshot
 
-![图片加载失败](https://rxf113.xyz/static/froggy4.png)
+![图片加载失败](https://rxf113.xyz/static/flex-froggy4.png)
 
 ---
 
@@ -85,4 +85,4 @@ flexbox exercise
 
 - screenshot
 
-![图片加载失败](https://rxf113.xyz/static/froggy5.png)
+![图片加载失败](https://rxf113.xyz/static/flex-froggy5.png)
