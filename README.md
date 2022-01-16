@@ -1,6 +1,6 @@
-# Flexbox-flex-froggy-Exercise
+# Flexbox-froggy-Exercise
 
-flexbox exercise
+flexbox 游戏 Flexbox-froggy 的练习结果与效果截图
 
 ------
 
