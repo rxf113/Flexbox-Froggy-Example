@@ -270,3 +270,171 @@ flexbox exercise
 - screenshot
 
 ![图片加载失败](https://rxf113.xyz/static/flex-froggy15.png)
+
+---
+
+### Level 16
+
+- css
+
+```css
+#pond {
+    display: flex;
+    align-items: flex-start;  
+}
+
+.yellow {
+    align-self: flex-end;
+}
+```
+
+- screenshot
+
+![图片加载失败](https://rxf113.xyz/static/flex-froggy16.png)
+
+---
+
+### Level 17
+
+- css
+
+```css
+#pond {
+    display: flex;
+    align-items: flex-start;
+}
+
+.yellow {
+    order: 999;
+    align-self: flex-end;
+}
+```
+
+- screenshot
+
+![图片加载失败](https://rxf113.xyz/static/flex-froggy17.png)
+
+---
+
+### Level 18
+
+- css
+
+```css
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+}
+```
+
+- screenshot
+
+![图片加载失败](https://rxf113.xyz/static/flex-froggy18.png)
+
+---
+
+### Level 19
+
+- css
+
+```css
+#pond {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+```
+
+- screenshot
+
+![图片加载失败](https://rxf113.xyz/static/flex-froggy19.png)
+
+---
+
+### Level 20
+
+- css
+
+```css
+#pond {
+    display: flex;
+    flex-flow: column wrap;
+}
+```
+
+- screenshot
+
+![图片加载失败](https://rxf113.xyz/static/flex-froggy20.png)
+
+---
+
+### Level 21
+
+- css
+
+```css
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+```
+
+- screenshot
+
+![图片加载失败](https://rxf113.xyz/static/flex-froggy21.png)
+
+---
+
+### Level 22
+
+- css
+
+```css
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+}
+```
+
+- screenshot
+
+![图片加载失败](https://rxf113.xyz/static/flex-froggy22.png)
+
+---
+
+### Level 23
+
+- css
+
+```css
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    align-content: center;
+}
+```
+
+- screenshot
+
+![图片加载失败](https://rxf113.xyz/static/flex-froggy23.png)
+
+### Level 24
+
+- css
+
+```css
+#pond {
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap-reverse;
+    align-content: space-between;
+    justify-content: center;
+}
+```
+
+- screenshot
+
+![图片加载失败](https://rxf113.xyz/static/flex-froggy24.png)
